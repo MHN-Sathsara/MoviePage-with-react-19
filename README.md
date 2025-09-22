@@ -13,7 +13,7 @@ A modern, responsive movie discovery application built with React, Vite, and Tai
 - **💾 Search Analytics**: Track search history using Appwrite database
 
 ## 🚀 Demo
-
+**[Live Preview](https://mhn-sathsara.github.io/MoviePage-with-react-19/)**
 ![Movie Page Screenshot](./screenshots/Cover.png) <!-- Add your screenshot here -->
 
 ## 🛠️ Tech Stack
